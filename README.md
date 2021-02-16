@@ -1,4 +1,4 @@
-# Submission for Kaggle Competition "Real or Not? NLP with Disaster Tweet"  (Top 25%)
+# Submission for Kaggle Competition "Real or Not? NLP with Disaster Tweet"  (Top 20%)
 Link to challenge: https://www.kaggle.com/c/nlp-getting-started/overview 
 
 Link to Public Kaggle Notebook (SVM's): https://www.kaggle.com/willyiamyu/disaster-word-embeddings-svm
